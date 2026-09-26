@@ -1,0 +1,4 @@
+.env
+.freebuff/
+/vendor
+/node_modules
